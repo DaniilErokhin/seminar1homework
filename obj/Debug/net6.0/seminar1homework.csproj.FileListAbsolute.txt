@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.AssemblyInfo.cs
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\bin\Debug\net6.0\seminar1homework.exe
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\bin\Debug\net6.0\seminar1homework.deps.json
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\bin\Debug\net6.0\seminar1homework.runtimeconfig.json
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\bin\Debug\net6.0\seminar1homework.dll
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\bin\Debug\net6.0\seminar1homework.pdb
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.dll
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\refint\seminar1homework.dll
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.pdb
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\seminar1homework.genruntimeconfig.cache
+C:\Users\Роман\Desktop\IT\C#_education\seminar1homework\obj\Debug\net6.0\ref\seminar1homework.dll
